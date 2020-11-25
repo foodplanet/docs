@@ -3,8 +3,6 @@
 - tags organized into different categories
 - users can vote which tags a food should have and on the different statements
 
-# Proposed Categories
-
 ## Diet
 
 ### In use
@@ -62,12 +60,14 @@
 - flower
 
 ## Animal-Part
-- egg
-- milk
 - liver
 - skin
 - meat
 - bone
+
+## Animal-Product
+- egg
+- milk
 
 ## Structure
 - powder

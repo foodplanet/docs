@@ -4,6 +4,7 @@
 
 ```bash
 sudo docker run --name foodplanet -p 6666:5432 -e POSTGRES_PASSWORD=1234 -d postgres
+sudo docker run --name foodplanet_test -p 6667:5432 -e POSTGRES_PASSWORD=1234 -d postgres
 sudo docker run --name usda_local_pg_db -p 5560:5432 -e POSTGRES_PASSWORD=1234 -d postgres
 ```
 

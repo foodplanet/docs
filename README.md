@@ -5,7 +5,8 @@
 ### Application
 
 3000 Website
-6666 Database
+6666 Database Development
+6667 Database Test
 
 ### Local DBs
 
